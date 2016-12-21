@@ -1,4 +1,7 @@
 # Greenphire-Code-Assesment
 
+Programming Language - Python 2.7
 
-Message - To make it look legible and for easy grasping I have used additional whitespaces in the code.
+IDE Used - Spyder
+
+Message - To make the code look legible and to grasp easily, I have used additional whitespaces in the code.
