@@ -1,5 +1,7 @@
 # Greenphire-Code-Assesment
 
+Power Ball Lottery Code
+
 Programming Language - Python 2.7
 
 IDE Used - Spyder
