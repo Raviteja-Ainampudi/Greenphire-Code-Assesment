@@ -104,7 +104,7 @@ just_count11 = [count for item, count in collections.Counter(a11).items() if cou
 power_mat = []
 if len(x11)== 0:
     while len(power_mat) < 5:
-        new = randint(0,69)
+        new = randint(1,69)
         if new not in power_mat:
             power_mat.append(new)
 else:
