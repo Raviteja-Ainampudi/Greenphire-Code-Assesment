@@ -133,11 +133,3 @@ print " "
 print "Powerball winning number:"
 for i in range(len(final)):
     print final[i],
-
-
-    
-
-                
-    
-    
-    
