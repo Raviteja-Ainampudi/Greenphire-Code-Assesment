@@ -1,4 +1,4 @@
-# Greenphire-Code-Assesment
+# Power-Ball-Game
 
 Power Ball Lottery Code
 
